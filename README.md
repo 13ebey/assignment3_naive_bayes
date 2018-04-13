@@ -1,4 +1,7 @@
 # assignment3_naive_bayes
-use python3 
+Dependencies:
+- python3 
+- pandas
+- numpy
 
 usage: python NaiveBayes.py trainingfile testfile
